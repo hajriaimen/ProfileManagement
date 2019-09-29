@@ -1,0 +1,61 @@
+/**
+ * @file Candidate Profile style
+ * @author BENHZEZ Ali
+ * @date 2019-02-04
+ */
+
+.parentGrid {
+    margin: 0 25%;
+}
+
+.avatarGrid {
+    justify-content: center;
+    padding: 1rem;
+}
+
+.avatar {
+    width: 100px!important;
+    height: 100px!important;
+}
+
+.profileTitle {
+    padding: 0 1rem;
+    text-align: center;
+    float: center;
+    font-size: 1rem;
+}
+
+.paper {
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.parentTitle {
+    color:#4b065ce0!important;
+    text-align: left;
+}
+
+.childTitle {
+    color: rgb(99, 122, 197)!important;
+    text-align: left;
+}
+
+.title {
+    text-align: left
+}
+.leftGrid {
+    text-align: left
+}
+
+.smallBlockTitle {
+    text-align: left;
+    font-size: 1.2rem;
+}
+
+.iconEdit{
+    float: right;
+}
+
+.iconLink{
+    display: inline-block;
+}

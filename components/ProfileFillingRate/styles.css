@@ -1,0 +1,21 @@
+/**
+ * @file Profile Filling Rate Css
+ * @author BENHZEZ Ali
+ * @date 2019-02-11
+ */
+
+.root {
+    width: 100%;
+}
+
+.div{
+    padding: 10px;
+}
+
+.title {
+    padding: 10px 0;
+}
+
+.progress {
+    width: 100%!important;
+}
